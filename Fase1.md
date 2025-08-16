@@ -1,3 +1,5 @@
+# Participantes: Nicolas Castaño Diosa y Juan Miguel Sanchez
+
 # Análisis y Toma de Requerimientos: Aplicación de Finanzas Personales
 
 ## Tarea 1.1: Investigación de Usuario y Análisis Competitivo
